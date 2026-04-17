@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mercaso_shopify_staff_notes_enhancement
 // @namespace    http://tampermonkey.net/
-// @version      3.2
+// @version      3.3
 // @description  Automatically converts the staffNote input into a dropdown menu, piercing through Shadow DOM (Web Components) and compatible with React/Vue.
 // @author       Mercaso
 // @match        https://admin.shopify.com/store/*
