@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mercaso_shopify_staff_notes_enhancement
 // @namespace    https://github.com/luisjimenez-Mercaso
-// @version      3.4
+// @version      3.5
 // @description  Automatically converts the staffNote input into a dropdown menu, piercing through Shadow DOM (Web Components) and compatible with React/Vue.
 // @author       Mercaso
 // @match        https://admin.shopify.com/store/*
@@ -25,6 +25,7 @@
         'Test Orders',
         'Merged Order',
         'Easy Ban',
+        'test',
         'Other'
     ];
 
